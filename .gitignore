@@ -7,3 +7,4 @@ npm-debug.log
 templates.js
 *iml
 app/views/.directory
+/lib/
